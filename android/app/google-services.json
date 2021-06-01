@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360681238162",
+    "project_id": "myknot-task",
+    "storage_bucket": "myknot-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360681238162:android:308b8aa3512175fe37c04b",
+        "android_client_info": {
+          "package_name": "com.example.myknot_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360681238162-j7gngrdq9j208f5t3jt7rp5hrc8ncvs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myknot_task",
+            "certificate_hash": "6c778ca834997b196ba806e77143cf884db56b2f"
+          }
+        },
+        {
+          "client_id": "360681238162-372ilsk0roih1s10sstchqr852rsnaud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvSn9VYJxSodcmYY0HrIuRV3K1QZkw8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360681238162-372ilsk0roih1s10sstchqr852rsnaud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
